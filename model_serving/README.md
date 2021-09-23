@@ -59,6 +59,7 @@
     Terminal 1:
     ```bash
     cd model_serving/flask
+    cp -r ../saved_models ./
     docker image build -t tfxworkshop_flask .
     docker container run -d -p 5000:5000 tfxworkshop_flask
     ```
