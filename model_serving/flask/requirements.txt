@@ -1,0 +1,6 @@
+numpy
+requests
+opencv-python
+tensorflow
+flask
+gunicorn
