@@ -1,0 +1,7 @@
+tensorflow_transform==1.2.0
+tensorflow==2.5.1
+ml_pipelines_sdk==1.2.0
+absl_py==0.12.0
+tfx_bsl==1.2.0
+absl==0.0
+tfx==1.2.0
