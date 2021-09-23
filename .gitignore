@@ -133,6 +133,7 @@ dmypy.json
 /cifar10_tfx/pipelines/
 /cifar10_tfx/serving_model/
 /model_serving/saved_models
+/model_serving/flask/saved_models
 
 # VSCode folder
 .vscode/
