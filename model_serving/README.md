@@ -70,3 +70,6 @@
     conda activate tfxworkshop
     python flask/flask_client.py
     ```
+
+## TODO: Add difference between Flask and TF Serving
+
